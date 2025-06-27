@@ -67,7 +67,17 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnab-1869&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-1869&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnab-1869&theme=github_dark" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnab-1869&show_icons=true&theme=github_dark&hide_border=false" width="49%" />
@@ -75,11 +85,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-1869&layout=compact&theme=github_dark&hide_border=false" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arnab-1869&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnab-1869&theme=github_dark" width="49%" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnab-1869&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
